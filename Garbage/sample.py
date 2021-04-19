@@ -23,7 +23,6 @@
 #         server.sendmail(sender_email, receiver_email, message)
 # except Exception as e:
 #     print(e)
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from email.header import Header
 from email.mime.text import MIMEText
